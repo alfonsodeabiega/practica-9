@@ -11,5 +11,6 @@ int main ()
     indice += 1; // Sentencia análoga a indice = indice + 1;
   }
   printf("\n");
+ 
   return 0;
 }
